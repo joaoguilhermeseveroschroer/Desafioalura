@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://img.ibxk.com.br/2019/03/29/29210004376124.jpg?w=1120&h=420&mode=crop&scale=both);
+    background-size: center;
+    font-family: Verdana;
+    backdrop-filter:blur(3px);
+  }
+  
+  .menu{
+    font-family: Arial;
+    background-color: lightblue;
+  }
+  
+  .menu li {
+    list-style: none;
+    
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a{
+   text-decoration: none;
+   color: black;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: lightblue;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+    
+  }
+  
